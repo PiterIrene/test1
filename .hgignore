@@ -1,0 +1,34 @@
+syntax: glob
+
+./config_override.php
+upload/*
+cache/*
+*.log
+custom/ZuckerReports2/temp/*
+custom/ZuckerReports2/archive/*
+custom/modules/*/Ext/*
+custom/application/Ext/*
+custom/history/
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+custom/ZuckerReports2/archive/*
+custom/ZuckerReports2/temp/*
+modules/pami_Asterisk/default_config.php
+custom/pami_Asterisk/log
+node_modules/*
+modules/AOD_Index/Index/*
+# NetBeans
+nbproject/
+
+custom/blowfish/*
+.git/*
+.github/*
+.gitignore
+syntax: regexp
+^config.php$
+custom/service/pyaster_config.php
+
+.idea/*
