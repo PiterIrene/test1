@@ -1,5 +1,5 @@
 <?php
- // created: 2016-11-22 07:03:00
+ // created: 2016-12-01 06:54:52
 $dictionary['Opportunity']['fields']['jjwg_maps_lat_c']['inline_edit']=1;
 
  ?>

@@ -1,5 +1,5 @@
 <?php
- // created: 2016-11-22 07:03:03
+ // created: 2016-12-01 06:54:55
 $dictionary['Prospect']['fields']['jjwg_maps_geocode_status_c']['inline_edit']=1;
 
  ?>
