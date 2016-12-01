@@ -1,8 +1,6 @@
 <?php
-// created: 2016-12-01 07:05:36
+// created: 2016-12-01 12:46:09
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
-  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Создано',
   'LBL_DATE_MODIFIED' => 'Изменено',
@@ -17,6 +15,10 @@ $mod_strings = array (
   'LBL_CREATED_USER' => 'Создано',
   'LBL_MODIFIED_USER' => 'Изменено',
   'LBL_LIST_NAME' => 'Адрес',
+  'LBL_EDIT_BUTTON' => 'Править',
+  'LBL_REMOVE' => 'Удалить',
+  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
+  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
   'LBL_LIST_FORM_TITLE' => 'Кэш адресов',
   'LBL_MODULE_NAME' => 'Кэш адресов',
   'LBL_MODULE_TITLE' => 'Кэш адресов',

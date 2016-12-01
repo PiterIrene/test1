@@ -1,5 +1,5 @@
 <?php
-// created: 2016-12-01 07:05:36
+// created: 2016-12-01 12:46:08
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Дата создания',
@@ -19,6 +19,8 @@ $mod_strings = array (
   'LBL_REMOVE' => 'Удалить',
   'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
   'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
+  'LBL_SECURITYGROUPS' => 'Группы пользователей',
+  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Группы пользователей',
   'LBL_LIST_FORM_TITLE' => 'Отчёты',
   'LBL_MODULE_NAME' => 'Отчёты',
   'LBL_MODULE_TITLE' => 'Отчёты',

@@ -1,8 +1,6 @@
 <?php
-// created: 2016-12-01 07:05:36
+// created: 2016-12-01 12:46:08
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
-  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Дата создания',
   'LBL_DATE_MODIFIED' => 'Дата изменения',
@@ -12,12 +10,19 @@ $mod_strings = array (
   'LBL_CREATED' => 'Создано',
   'LBL_CREATED_ID' => 'Создано(ID)',
   'LBL_DESCRIPTION' => 'Содержимое шаблона',
-  'LBL_HEADER' => 'Верхний колонтитул',
-  'LBL_FOOTER' => 'Нижний колонтитул',
   'LBL_DELETED' => 'Удалён',
   'LBL_NAME' => 'PDF-шаблон',
   'LBL_CREATED_USER' => 'Создано',
   'LBL_MODIFIED_USER' => 'Изменено',
+  'LBL_LIST_NAME' => 'Название',
+  'LBL_EDIT_BUTTON' => 'Править',
+  'LBL_REMOVE' => 'Удалить',
+  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
+  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
+  'LBL_SECURITYGROUPS' => 'Группы пользователей',
+  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Группы пользователей',
+  'LBL_HEADER' => 'Верхний колонтитул',
+  'LBL_FOOTER' => 'Нижний колонтитул',
   'LBL_LIST_FORM_TITLE' => 'Список PDF-шаблонов',
   'LBL_MODULE_NAME' => 'PDF-шаблоны',
   'LBL_MODULE_TITLE' => 'PDF-шаблоны',

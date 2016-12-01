@@ -1,8 +1,6 @@
 <?php
-// created: 2016-12-01 07:05:36
+// created: 2016-12-01 12:46:09
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
-  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Создано',
   'LBL_DATE_MODIFIED' => 'Изменено',
@@ -17,6 +15,12 @@ $mod_strings = array (
   'LBL_CREATED_USER' => 'Создано',
   'LBL_MODIFIED_USER' => 'Изменено',
   'LBL_LIST_NAME' => 'Метка',
+  'LBL_EDIT_BUTTON' => 'Править',
+  'LBL_REMOVE' => 'Удалить',
+  'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
+  'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
+  'LBL_SECURITYGROUPS' => 'Группы пользователей',
+  'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Группы пользователей',
   'LBL_LIST_FORM_TITLE' => 'Метки',
   'LBL_MODULE_NAME' => 'Метки',
   'LBL_MODULE_TITLE' => 'Метки',
