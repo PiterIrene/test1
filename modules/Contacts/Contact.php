@@ -140,6 +140,8 @@ class Contact extends Person {
 	var $vip;
 	var $social_net;
 	var $pay;
+	var $category;
+	var $position;
 	
 	
 

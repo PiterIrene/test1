@@ -1,5 +1,5 @@
 <?php
-// created: 2016-12-01 12:46:07
+// created: 2016-12-03 13:21:48
 $mod_strings = array (
   'LBL_ID' => 'ID:',
   'LBL_DATE_ENTERED' => 'Дата создания',
@@ -221,4 +221,6 @@ $mod_strings = array (
   'LBL_VIP' => 'vip',
   'LBL_SOCIAL_NET' => 'Социальная сеть',
   'LBL_PAY' => 'Зарплата',
+  'LBL_CATEGORY' => 'Категория',
+  'LBL_POSITION' => 'Должность',
 );

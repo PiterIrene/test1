@@ -73,4 +73,6 @@ $mod_strings = array (
   'LBL_VIP' => 'vip',
   'LBL_SOCIAL_NET' => 'Социальная сеть',
   'LBL_PAY' => 'Зарплата',
+  'LBL_CATEGORY' => 'Категория',
+  'LBL_POSITION' => 'Должность',
 );

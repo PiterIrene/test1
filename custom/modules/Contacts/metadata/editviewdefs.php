@@ -44,6 +44,7 @@ array (
           'panelDefault' => 'expanded',
         ),
       ),
+      'syncDetailEditViews' => true,
     ),
     'panels' => 
     array (
@@ -143,6 +144,21 @@ array (
         array (
           0 => 
           array (
+            'name' => 'category',
+            'studio' => 'visible',
+            'label' => 'LBL_CATEGORY',
+          ),
+          1 => 
+          array (
+            'name' => 'position',
+            'studio' => 'visible',
+            'label' => 'LBL_POSITION',
+          ),
+        ),
+        8 => 
+        array (
+          0 => 
+          array (
             'name' => 'primary_address_street',
             'hideLabel' => true,
             'type' => 'address',
@@ -169,7 +185,7 @@ array (
             ),
           ),
         ),
-        8 => 
+        9 => 
         array (
           0 => 
           array (
@@ -178,7 +194,7 @@ array (
           ),
           1 => '',
         ),
-        9 => 
+        10 => 
         array (
           0 => 
           array (

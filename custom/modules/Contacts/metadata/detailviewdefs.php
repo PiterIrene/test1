@@ -111,25 +111,21 @@ array (
           'file' => 'modules/Leads/Lead.js',
         ),
       ),
-      'useTabs' => true,
+      'useTabs' => false,
       'tabDefs' => 
       array (
         'LBL_CONTACT_INFORMATION' => 
         array (
-          'newTab' => true,
+          'newTab' => false,
           'panelDefault' => 'expanded',
         ),
         'LBL_PANEL_ADVANCED' => 
         array (
-          'newTab' => true,
-          'panelDefault' => 'expanded',
-        ),
-        'LBL_PANEL_ASSIGNMENT' => 
-        array (
-          'newTab' => true,
+          'newTab' => false,
           'panelDefault' => 'expanded',
         ),
       ),
+      'syncDetailEditViews' => true,
     ),
     'panels' => 
     array (
@@ -224,6 +220,21 @@ array (
         array (
           0 => 
           array (
+            'name' => 'category',
+            'studio' => 'visible',
+            'label' => 'LBL_CATEGORY',
+          ),
+          1 => 
+          array (
+            'name' => 'position',
+            'studio' => 'visible',
+            'label' => 'LBL_POSITION',
+          ),
+        ),
+        8 => 
+        array (
+          0 => 
+          array (
             'name' => 'primary_address_street',
             'label' => 'LBL_PRIMARY_ADDRESS',
             'type' => 'address',
@@ -243,7 +254,7 @@ array (
             ),
           ),
         ),
-        8 => 
+        9 => 
         array (
           0 => 
           array (
@@ -253,7 +264,7 @@ array (
           ),
           1 => '',
         ),
-        9 => 
+        10 => 
         array (
           0 => 
           array (
@@ -284,24 +295,6 @@ array (
           array (
             'name' => 'campaign_name',
             'label' => 'LBL_CAMPAIGN',
-          ),
-        ),
-      ),
-      'LBL_PANEL_ASSIGNMENT' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            'name' => 'date_entered',
-            'customCode' => '{$fields.date_entered.value} {$APP.LBL_BY} {$fields.created_by_name.value}',
-            'label' => 'LBL_DATE_ENTERED',
-          ),
-          1 => 
-          array (
-            'name' => 'date_modified',
-            'customCode' => '{$fields.date_modified.value} {$APP.LBL_BY} {$fields.modified_by_name.value}',
-            'label' => 'LBL_DATE_MODIFIED',
           ),
         ),
       ),

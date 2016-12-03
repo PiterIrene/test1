@@ -241,9 +241,11 @@ $mod_strings = array (
 'LBL_PORTAL_USER_TYPE' => 'Пользователь портала:',
 'LBL_PORTAL_ACCOUNT_DISABLED' => 'Учётная запись портала отключена:',
 'LBL_JOOMLA_ACCOUNT_ID' => 'ID учётной записи Joomla',
-  'LBL_VIP' => 'vip',
-  'LBL_SOCIAL_NET' => 'Социальная сеть',
-  'LBL_PAY' => 'Зарплата',
+'LBL_VIP' => 'vip',
+'LBL_SOCIAL_NET' => 'Социальная сеть',
+'LBL_PAY' => 'Зарплата',
+'LBL_CATEGORY' => 'Категория',
+'LBL_POSITION' => 'Должность',
 );
 
 ?>

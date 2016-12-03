@@ -39,3 +39,5 @@
 
 
 $app_list_strings['moduleList']['qqq_Contacts'] = 'add new fields';
+$app_list_strings['contact_category_list'][1] = 'Должность со значениями ТОП-менеджмент';
+$app_list_strings['contact_category_list'][2] = 'Администрация';
