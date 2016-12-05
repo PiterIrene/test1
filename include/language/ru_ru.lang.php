@@ -2854,7 +2854,7 @@ $app_strings = array (
     'LBL_MASSUPDATE_DATE' => 'Выбор даты',
      /// <--
 	 
-    'LBL_VALIDATE_RANGE' => 'находится все корректного диапазона дат',
+    'LBL_VALIDATE_RANGE' => 'находится вне корректного диапазона дат',
 	'LBL_CHOOSE_START_AND_END_DATES' => 'Укажите начальную и конечную даты диапазона',
 	'LBL_CHOOSE_START_AND_END_ENTRIES' => 'Укажите начальное и конечное значение диапазона',
 
